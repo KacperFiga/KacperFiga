@@ -1,4 +1,4 @@
-[![](https://github.com/saadeghi/KacperFiga/blob/master/code.gif)](#)
+[![](https://github.com/KacperFiga/KacperFiga/blob/main/code.gif)](#)
 
 ### Hi there 👋
 
