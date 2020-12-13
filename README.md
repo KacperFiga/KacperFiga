@@ -1,3 +1,5 @@
+[![](https://github.com/saadeghi/KacperFiga/blob/main/code.gif)](#)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... Learning new skills
