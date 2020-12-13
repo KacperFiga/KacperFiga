@@ -1,6 +1,6 @@
-### Hi there 👋
-
 [![](https://github.com/KacperFiga/KacperFiga/blob/main/code.gif)](#)
+
+### Hi there 👋
 
 - 🔭 I’m currently working on ... Learning new skills
 - 🌱 I’m currently learning ... React
