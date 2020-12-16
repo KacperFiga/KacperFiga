@@ -1,7 +1,14 @@
 [![](https://github.com/KacperFiga/KacperFiga/blob/main/code.gif)](#)
 
-# Hi there 👋
-
+#          | ￣￣￣￣￣￣￣￣￣￣￣￣￣ |
+#          |        Hi there 👋        |
+#          | __________________________ |
+#                 \ (•◡•) / 
+#                  \       / 
+#                      ——
+#                   |     |
+#                    |_   |_
+                       
 - 🔭 I’m currently working on ... Learning new skills
 - 🌱 I’m currently learning ... React
 - 👯 I’m looking to collaborate on ... Frontend projects
