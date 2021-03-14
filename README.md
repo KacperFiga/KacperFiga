@@ -15,5 +15,5 @@
  - 👯 I’m looking to collaborate on ... Frontend projects
  - 🤔 I’m looking for help with ... JavaScript, React, css
  - 💬 Ask me about ... Anything
- - 📫 How to reach me: ... Twitter: @TeenagerDev02
+ - 📫 How to reach me: ... E-mail: kacper.figa@o2.pl
  - 😄 Pronouns: ... He/Him
