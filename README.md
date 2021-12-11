@@ -7,4 +7,3 @@
  - 💬 Ask me about ... Anything
  - 📫 How to reach me: ... E-mail: kacper.figa@protonmail.com
  - 😄 Pronouns: ... He/Him
- - Member of UNITA TECHNOLOGY
