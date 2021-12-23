@@ -1,7 +1,16 @@
 # Hi, I am Kacper 👋
 
 </br>
+
 I am 19 years old. I am still learning new skills.
+
+</br>
+
+- 🔭 I’m currently working on learning new skills
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate with anyone
+- ⚡ Fun fact: I am a fan of  <img src="https://aleen42.github.io/badges/src/mercedes_benz.svg" alt='Mercedes Benz'/> and a good coffee
+
 </br>
 
 ## My GitHub stats 📈
@@ -29,7 +38,7 @@ I am 19 years old. I am still learning new skills.
 ### Frontend
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
