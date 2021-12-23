@@ -1,7 +1,9 @@
 # Hi, I am Kacper 👋
+
 </br>
 I am 19 years old. I am still learning new skills.
 </br>
+
 ## My GitHub stats 📈
 </br>
 <p>
