@@ -71,8 +71,12 @@ I am 19 years old. I am still learning new skills.
   <img alt='instagram' title='instagram' src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
     <a href="https://github.com/KacperFiga/">
-  <img alt='instagram' title='instagram' src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img alt='github' title='github' src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
+        <a href="mailto: kacper.figa@protonmail.com">
+  <img alt='email' title='email' src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+  </a>
+ 
     
 </p>
 
