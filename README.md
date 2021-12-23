@@ -70,6 +70,10 @@ I am 19 years old. I am still learning new skills.
   <a href="https://instagram.com/figovskyy/">
   <img alt='instagram' title='instagram' src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+    <a href="https://github.com/KacperFiga/">
+  <img alt='instagram' title='instagram' src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+    
 </p>
 
  
