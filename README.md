@@ -1,4 +1,4 @@
-### Hi I am Kacper
+### Hi, I am Kacper
 
  - 🔭 I’m currently working on ... Learning new skills
  - 🌱 I’m currently learning ... React
