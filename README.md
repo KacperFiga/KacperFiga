@@ -54,7 +54,7 @@ I am 19 years old. I am still learning new skills.
   <a href="#"><img alt="mobgoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
 
-### Systems
+### OS
 
 <p>
      <a href="#"><img alt="git" src="https://img.shields.io/badge/git%20-%2314354C.svg?logo=git&logoColor=white"></a>
