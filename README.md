@@ -9,7 +9,6 @@ I am 19 years old. I am still learning new skills.
 - 🔭 I’m currently working on learning new skills
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with anyone
-- ⚡ Fun fact: I am a fan of  <img src="https://aleen42.github.io/badges/src/mercedes_benz.svg" alt='Mercedes Benz'/> and a good coffee
 
 </br>
 
