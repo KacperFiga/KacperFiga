@@ -59,6 +59,7 @@ I am 19 years old. I am still learning new skills.
      <a href="#"><img alt="git" src="https://img.shields.io/badge/git%20-%2314354C.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="linux" src="https://img.shields.io/badge/linux%20-%2314354C.svg?logo=linux&logoColor=white"></a>
     <a href="#"><img alt="windows" src="https://img.shields.io/badge/windows%20-%2314354C.svg?logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="macos" src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social"></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
