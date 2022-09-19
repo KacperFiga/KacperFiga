@@ -30,7 +30,7 @@
     <a href="#"><img alt="macos" src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social"></a>
 </p>
 
-## 🙋‍♂️ Connect with me
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Text%20me!%20🙋‍♂️&fontSize=50&fontAlignY=70)
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
