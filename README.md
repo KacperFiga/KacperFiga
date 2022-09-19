@@ -21,14 +21,6 @@
      <a href="#"><img alt="mongodb" src="./img/mongo.png" height='50px' margin='5px'></a>
 </p>
 
-### Backend
-
-<p>
-  <a href="#"><img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-  <a href="#"><img alt="mySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="mobgoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-</p>
-
 ### OS
 
 <p>
