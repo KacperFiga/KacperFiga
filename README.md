@@ -1,16 +1,12 @@
-# It's great to see You here! 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Welcome%20to%20my%20world!👋&fontSize=70&animation=blink)
 
-</br>
-
-I'm 19 years old Frontend developer who is fascinated about learning new technologies. Let's talk!
-
-</br>
+ I'm 19 years old Frontend developer who is fascinated about learning new technologies. Let's talk!
 
 - 🔭 Everyday I'm working with TypeScript and React
 - 🌱 After working hours I am currently learning Solidity
-- 👯 In the future I wanna become a fullstack/blockchain developer
+- 👯 In the future I wanna become a fullstack / blockchain developer
 
-</br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=70)
 
 ## My GitHub stats 📈
 </br>
