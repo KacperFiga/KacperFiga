@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Welcome%20to%20my%20world!👋&fontSize=70&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Welcome%20to%20my%20world!👋&fontSize=70&animation=blink)
 
  I'm 19 years old Frontend developer who is fascinated about learning new technologies. Let's talk!
 
@@ -6,7 +6,7 @@
 - 🌱 After working hours I am currently learning Solidity
 - 👯 In the future I wanna become a fullstack / blockchain developer
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&fontSize=70)
 
 ## My GitHub stats 📈
 </br>
