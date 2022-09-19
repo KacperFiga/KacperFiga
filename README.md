@@ -8,6 +8,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=My%20technology%20stack%20👨‍💻&fontSize=50&fontAlignY=70)
 
+<p align='center'>
+     <a href="#"><img alt="HTML" src="./img/html.png" height='75px'></a>
+     <a href="#"><img alt="CSS" src="./img/css.png" height='75px'></a>
+     <a href="#"><img alt="JavaScript" src="./img/javascript.png" height='75px'></a>
+     <a href="#"><img alt="TypeScript" src="./img/typescript.png" height='75px'></a>
+     <a href="#"><img alt="Redux" src="./img/redux.png" height='75px'></a>
+     <a href="#"><img alt="SASS" src="./img/sass.png" height='75px'></a>
+</p>
+
 ## My GitHub stats 📈
 </br>
 <p>
@@ -28,17 +37,10 @@
 </br>
 </br>
 
-## Technology stack👨‍💻 
 
 ### Frontend
 <p>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
-    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>
-    <a href="#"><img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
+
 </p>
 
 ### Backend
