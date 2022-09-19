@@ -9,10 +9,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=My%20technology%20stack%20👨‍💻&fontSize=50&fontAlignY=70)
 
 <p align='center'>
-     <a href="#"><img alt="HTML" src="./img/html.png" height='75px'></a>
-     <a href="#"><img alt="CSS" src="./img/css.png" height='75px'></a>
-     <a href="#"><img alt="JavaScript" src="./img/javascript.png" height='75px'></a>
-     <a href="#"><img alt="TypeScript" src="./img/typescript.png" height='75px'></a>
+     <a href="#"><img alt="HTML" src="./img/html.png" height='75px' margin='5px'></a>
+     <a href="#"><img alt="CSS" src="./img/css.png" height='75px' margin='5px'></a>
+     <a href="#"><img alt="JavaScript" src="./img/javascript.png" height='75px' margin='5px'></a>
+     <a href="#"><img alt="TypeScript" src="./img/typescript.png" height='75px' margin='5px'></a>
      <a href="#"><img alt="Redux" src="./img/redux.png" height='75px'></a>
      <a href="#"><img alt="SASS" src="./img/sass.png" height='75px'></a>
 </p>
