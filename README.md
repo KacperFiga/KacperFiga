@@ -17,26 +17,6 @@
      <a href="#"><img alt="SASS" src="./img/sass.png" height='50px'></a>
 </p>
 
-## My GitHub stats 📈
-</br>
-<p>
-<img align="left" alt="technologies" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical"/>
-<img align="right" alt='stars' width="60%"  src="https://github-readme-stats.vercel.app/api?username=kacperfiga&show_icons=true&theme=radical"/>
-</p>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
 ### Backend
 
 <p>
