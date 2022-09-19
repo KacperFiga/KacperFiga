@@ -1,14 +1,14 @@
-# Hi, I am Kacper 👋
+# It's great to see You here! 👋
 
 </br>
 
-I am 19 years old. I am still learning new skills.
+I'm 19 years old Frontend developer who is fascinated about learning new technologies. Let's talk!
 
 </br>
 
-- 🔭 I’m currently working on learning new skills
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate with anyone
+- 🔭 Everyday I'm working with TypeScript and React
+- 🌱 After working hours I am currently learning Solidity
+- 👯 In the future I wanna become a fullstack/blockchain developer
 
 </br>
 
