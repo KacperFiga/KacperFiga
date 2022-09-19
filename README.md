@@ -3,7 +3,7 @@
  I'm 19 years old Frontend developer who is fascinated about learning new technologies. Let's talk!
 
 - 🔭 Everyday I'm working with TypeScript and React <a href="#"><img alt="typescript" src="./img/typescript.png" height='20px' margin='5px'></a> <a href="#"><img alt="react" src="./img/react.png" height='20px' margin='5px'></a>
-- 🌱 After working hours I am currently learning Solidity <a href="#"><img alt="solidity" src="./img/sol.png" height='20px' margin='5px'></a>
+- 🌱 After working hours I'm currently learning Solidity <a href="#"><img alt="solidity" src="./img/sol.png" height='20px' margin='5px'></a>
 - 👯 In the future I wanna become a fullstack / blockchain developer
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=My%20technology%20stack%20👨‍💻&fontSize=50&fontAlignY=70)
