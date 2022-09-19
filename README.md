@@ -37,12 +37,6 @@
 </br>
 </br>
 
-
-### Frontend
-<p>
-
-</p>
-
 ### Backend
 
 <p>
