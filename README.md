@@ -23,20 +23,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Text%20me!%20🙋‍♂️&fontSize=50&fontAlignY=70)
 
-<!-- Badges template - https://github.com/badges/shields -->
+
 <p align="center">
-  <a href="https://twitter.com/FigaKacper"><img alt="Twitter" title="Twitter" src="./img/twitter"/></a>
-  <a href="https://www.linkedin.com/in/kacper-figa-2a9740231">
-  <img alt='LinkedIn' title='LinkedIn' src="./img/li.png">
+  <a href="https://twitter.com/FigaKacper" target="_blank"><img alt="Twitter" title="Twitter" src="./img/twitter.png" height='25px'/></a>
+  <a href="https://www.linkedin.com/in/kacper-figa-2a9740231" target="_blank">
+  <img alt='LinkedIn' title='LinkedIn' src="./img/li.png" height='25px'>
   </a>
-    <a href="https://github.com/KacperFiga/">
-  <img alt='github' title='github' src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-        <a href="mailto: kacper.figa@protonmail.com">
-  <img alt='email' title='email' src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
-  </a>
- 
-    
+   
 </p>
 
  ![with-coffee](https://img.shields.io/badge/made%20with-%E2%98%95%EF%B8%8F%20coffee-yellow.svg) ![with-love](https://img.shields.io/badge/made%20with-%F0%9F%92%8C-red.svg)
