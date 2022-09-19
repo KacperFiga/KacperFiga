@@ -17,12 +17,8 @@
      <a href="#"><img alt="SASS" src="./img/sass.png" height='50px'></a>
 </p>
 <p width='45%' align='right'>
-     <a href="#"><img alt="HTML" src="./img/html.png" height='50px' margin='5px'></a>
-     <a href="#"><img alt="CSS" src="./img/css.png" height='50px' margin='5px'></a>
-     <a href="#"><img alt="JavaScript" src="./img/javascript.png" height='50px' margin='5px'></a>
-     <a href="#"><img alt="TypeScript" src="./img/typescript.png" height='50px' margin='5px'></a>
-     <a href="#"><img alt="Redux" src="./img/redux.png" height='50px'></a>
-     <a href="#"><img alt="SASS" src="./img/sass.png" height='50px'></a>
+     <a href="#"><img alt="nodejs" src="./img/node.png" height='50px' margin='5px'></a>
+     <a href="#"><img alt="mongodb" src="./img/mongo.png" height='50px' margin='5px'></a>
 </p>
 
 ### Backend
