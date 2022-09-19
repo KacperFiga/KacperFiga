@@ -21,15 +21,6 @@
      <a href="#"><img alt="mongodb" src="./img/mongo.png" height='50px' margin='5px'></a>
 </p>
 
-### OS
-
-<p>
-     <a href="#"><img alt="git" src="https://img.shields.io/badge/git%20-%2314354C.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="linux" src="https://img.shields.io/badge/linux%20-%2314354C.svg?logo=linux&logoColor=white"></a>
-    <a href="#"><img alt="windows" src="https://img.shields.io/badge/windows%20-%2314354C.svg?logo=windows&logoColor=white"></a>
-    <a href="#"><img alt="macos" src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social"></a>
-</p>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Text%20me!%20🙋‍♂️&fontSize=50&fontAlignY=70)
 
 <!-- Badges template - https://github.com/badges/shields -->
