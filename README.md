@@ -32,4 +32,6 @@ Hello! 👋 It's great to see You here! I'm a young Front-end developer. I'd lik
    
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperFiga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  ![with-coffee](https://img.shields.io/badge/made%20with-%E2%98%95%EF%B8%8F%20coffee-yellow.svg) ![with-love](https://img.shields.io/badge/made%20with-%F0%9F%92%8C-red.svg)
