@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=320&section=header&text=Welcome%20to%20my%20world!👋&fontSize=70&animation=blink&fontAlignY=45)
 
-Hello! 👋 It's great to see You here! I'm a young Front-end developer. I'd like to change the world for the better. Let's change it together! Projects with a real impact on society are my favourite. I love learning new things, taking new opportunities and reading books. What's your favourite book? Let's talk! 🤝
+Hello! 👋 It's great to see You here! I'm a Front-end developer. I'd like to change the world for the better. Let's change it together! Projects with a real impact on society are my favourite. I love learning new things, taking new opportunities and reading books. What's your favourite book? Let's talk! 🤝
 
 - 🔭 Everyday I'm working with TypeScript and React <a href="#"><img alt="typescript" src="./img/typescript.png" height='20px' margin='5px'></a> <a href="#"><img alt="react" src="./img/react.png" height='20px' margin='5px'></a>
+- 📚 Currently I'm learning Vue.js
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=My%20technology%20stack%20👨‍💻&fontSize=50&fontAlignY=70)
 
@@ -25,7 +26,7 @@ Hello! 👋 It's great to see You here! I'm a young Front-end developer. I'd lik
 <p align="center">
   <a href="https://twitter.com/FigaKacper" target="_blank"><img alt="Twitter" title="Twitter" src="./img/twitter.png" height='25px'/></a>
   <a href="https://www.linkedin.com/in/kacper-figa-2a9740231" target="_blank">
-  <img alt='LinkedIn' title='LinkedIn' src="./img/li.png" height='25px'>
+  <img alt='Linkedin' title='Linkedin' src="./img/li.png" height='25px'>
   </a>
    
 </p>
