@@ -3,7 +3,7 @@
 Hello! 👋 It's great to see You here! I'm a Front-end developer. I'd like to change the world for the better. Let's change it together! Projects with a real impact on society are my favourite. I love learning new things, taking new opportunities and reading books. What's your favourite book? Let's talk! 🤝
 
 - 🔭 Everyday I'm working with TypeScript and React <a href="#"><img alt="typescript" src="./img/typescript.png" height='20px' margin='5px'></a> <a href="#"><img alt="react" src="./img/react.png" height='20px' margin='5px'></a>
-- 📚 Currently I'm learning Vue.js
+- 📚 Currently I'm learning Vue.js & Python
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=My%20technology%20stack%20👨‍💻&fontSize=50&fontAlignY=70)
 
