@@ -12,7 +12,10 @@ Hello! 👋 It's great to see You here! I'm a Front-end developer. I'd like to c
      <a href="#"><img alt="CSS" src="./img/css.png" height='50px' margin='5px'></a>
      <a href="#"><img alt="JavaScript" src="./img/javascript.png" height='50px' margin='5px'></a>
      <a href="#"><img alt="TypeScript" src="./img/typescript.png" height='50px' margin='5px'></a>
-     <a href="#"><img alt="Redux" src="./img/redux.png" height='50px'></a>
+     <a href="#"><img alt="TypeScript" src="./img/icons8-react-80.png" height='50px' margin='5px'></a>
+     <a href="#"><img alt="React" src="./img/redux.png" height='50px'></a>
+     <a href="#"><img alt="Vue" src="./img/icons8-vue-js-96.png" height='50px'></a>
+     <a href="#"><img alt="Nuxt" src="./img/icons8-nuxt-jc-96.png" height='50px'></a>
      <a href="#"><img alt="SASS" src="./img/sass.png" height='50px'></a>
 </p>
 <p width='45%' align='right'>
