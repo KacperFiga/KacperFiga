@@ -18,10 +18,6 @@ Hello! 👋 It's great to see You here! I'm a Front-end developer. I'd like to c
      <a href="#"><img alt="Nuxt" src="./img/icons8-nuxt-jc-96.png" height='50px'></a>
      <a href="#"><img alt="SASS" src="./img/sass.png" height='50px'></a>
 </p>
-<p width='45%' align='right'>
-     <a href="#"><img alt="nodejs" src="./img/node.png" height='50px' margin='5px'></a>
-     <a href="#"><img alt="mongodb" src="./img/mongo.png" height='50px' margin='5px' marginBottom='10px'></a>
-</p>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Text%20me!%20🙋‍♂️&fontSize=50&fontAlignY=70)
 
