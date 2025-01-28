@@ -2,9 +2,6 @@
 
 Hello! 👋 It's great to see You here! I'm a Front-end developer. I'd like to change the world for the better. Let's change it together! Projects with a real impact on society are my favourite. I love learning new things, taking new opportunities and reading books. What's your favourite book? Let's talk! 🤝
 
-- 🔭  At work I use Nuxt  <a href="#"><img alt="Nuxt" src="./img/icons8-nuxt-jc-96.png" height='20px'></a>
-- 🎉  After my work hours I develop my side project
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=My%20technology%20stack%20👨‍💻&fontSize=50&fontAlignY=70)
 
 <p width='45%' align='left'>
